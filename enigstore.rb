@@ -12,8 +12,8 @@
 #              it inserts a decrypted version of that message below
 #              the original one.
 #
-#  There is no support for netsted mails yet. Please send a test case or money.
-#  There is no support for encrypted attachements.
+#  There is no support for nested mails yet. Please send a test case or money.
+#  There is no support for encrypted attachments.
 #  They aren't searchable anyway..
 #
 #  Please be aware that this is one of those 'works for me' solutions.

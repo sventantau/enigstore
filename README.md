@@ -18,9 +18,9 @@ there is no way to search through them.
 * For each gpg encrypted message that is found, it inserts a decrypted version of that message below the original one.
 
 
-There is no support for netsted mails yet. Please send a test case or money.
+There is no support for nested mails yet. Please send a test case or money.
 
-There is no support for encrypted attachements.
+There is no support for encrypted attachments.
 They aren't searchable anyway..
 
 
